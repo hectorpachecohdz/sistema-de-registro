@@ -2,4 +2,8 @@
 
 Estado del Proyecto...  En construcción 🏗 
 
-Pa ejecutar el Siotema, debes escribir
+Para ejecutar el Siotema, debes escribir:
+
+```npm install react```
+
+Sistema de Registro 2
